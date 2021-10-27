@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.line6 img {
+  width: 25%;
+  margin: 1.5%;
+}
